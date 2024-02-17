@@ -1,5 +1,9 @@
+![Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
+
 <h1 align="center">Hi 👋, I'm Thanusha Rathnayake</h1>
 <h3 align="center">A passionate backend developer from Sri Lanka</h3>
+
+<img align="right" alt="Java" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanus31&label=Profile%20views&color=0e75b6&style=flat" alt="thanus31" /> </p>
 
