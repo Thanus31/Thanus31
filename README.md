@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanus31&label=Profile%20views&color=0e75b6&style=flat" alt="thanus31" /> </p>
 
-- 🔭 I’m currently working on **OOP With Java**
+- 🔭 I’m currently working on **C and JavaScript**
 
 - 🌱 I’m currently learning **Java,C,Python,SQL,PHP,Javascript,React**
 
