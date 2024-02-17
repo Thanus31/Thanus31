@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **Java,C,Python,SQL,PHP,Javascript,React**
 
-- 🤝 I’m an Undergraduate at **The Open University Of Sri Lanka**
+- 🤝 I’m an Undergraduate at **The Open University Of Sri Lanka** 
 
 - 💬 Ask me about **Fullstack development**
 
 - 📫 How to reach me **thanusharathnayake31@gmail.com**
 
-- ⚡ Fun fact **Coding is simple**
+- ⚡ Fun fact **Coding is simple**  <img align="right" alt="robot" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
