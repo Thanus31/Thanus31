@@ -1,7 +1,7 @@
 ![Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 
 <h1 align="center">Hi 👋, I'm Thanusha Rathnayake</h1>
-<h3 align="center">A passionate backend developer from Sri Lanka</h3>
+<h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
 
 <img align="right" alt="Java" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif">
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **OOP With Java**
 
-- 🌱 I’m currently learning **Java,C,Python,SQL,PHP**
+- 🌱 I’m currently learning **Java,C,Python,SQL,PHP,Javascript,React**
 
 - 🤝 I’m an Undergraduate at **The Open University Of Sri Lanka**
 
