@@ -13,7 +13,7 @@
 
 - 🤝 I’m an Undergraduate at **The Open University Of Sri Lanka**
 
-- 💬 Ask me about **Backend development**
+- 💬 Ask me about **Fullstack development**
 
 - 📫 How to reach me **thanusharathnayake31@gmail.com**
 
