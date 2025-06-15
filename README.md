@@ -7,17 +7,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanus31&label=Profile%20views&color=0e75b6&style=flat" alt="thanus31" /> </p>
 
-- 🔭 I’m currently working on **C and JavaScript**
+### 👋 About Me
 
-- 🌱 I’m currently learning **Java,C,Python,SQL,PHP,Javascript,React**
-
-- 🤝 I’m an Undergraduate at **The Open University Of Sri Lanka** 
-
-- 💬 Ask me about **Fullstack development**
-
-- 📫 How to reach me **thanusharathnayake31@gmail.com**
-
-- ⚡ Fun fact **Coding is simple**  <img align="right" alt="robot" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
+- 🛠️ I’m currently working on **C**, **JavaScript**, and **JMeter** for performance testing  
+- 🌱 I’m currently learning **Java**, **C**, **Python**, **SQL**, **PHP**, **JavaScript**, **React**, and **DevOps tools** like **Docker** and **CI/CD pipelines**  
+- 🎓 I’m a 2nd-year Software Engineering undergraduate at **The Open University of Sri Lanka**  
+- 💻 I’m building projects in **Tourism & Hospitality**, **Smart Agriculture using IoT**, and **Mobile App QA Testing**  
+- 💬 Ask me about **Full Stack Development**, **DevOps roadmap for students**, and **Testing with Selenium & JMeter**  
+- 📫 Reach me at: [thanusharathnayake31@gmail.com](mailto:thanusharathnayake31@gmail.com)  
+- ⚡ Fun fact: **I believe Coding is just problem-solving with creativity**
+  <img align="right" alt="robot" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
